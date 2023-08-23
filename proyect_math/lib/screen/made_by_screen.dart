@@ -77,7 +77,7 @@ class MadeByScreen extends StatelessWidget {
           ),
           SizedBox(height: 10),
           Text(
-            'Alias: El mas cachero del salon',
+            'Alias:El beibolista profecional',
             style: TextStyle(fontSize: 16),
           ),
         ],
