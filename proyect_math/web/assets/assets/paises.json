@@ -1,0 +1,17 @@
+[
+  { "country": "Simplifica la expresión: 3x² + 2y - 4x + 5y² =", "capital": "y² - x²" },
+  { "country": "Resuelve la ecuación: 2x + 7 = 15 - 3x", "capital": "x = 2" },
+  { "country": "Calcula el área de un triángulo con base 10 cm y altura 8 cm.", "capital": "40 cm²" },
+  { "country": "Resuelve para x: 2x³ - 5x² + 3 = 0", "capital": "x = 1 o x = 1.5" },
+  { "country": "Si a = 4 y b = -2, calcula el valor de a² - 3ab + b².", "capital": "36" },
+  { "country": "Resuelve el sistema de ecuaciones:\n2x - y = 5\n3x + 2y = 12", "capital": "x = 3, y = 1" },
+  { "country": "Hallar el volumen de un cilindro con radio 6 cm y altura 10 cm.", "capital": "360π cm³" },
+  { "country": "Resuelve para x: log₂(x) + log₂(x + 8) = 4", "capital": "x = 16" },
+  { "country": "Si el tercer término de una progresión aritmética es 15 y el séptimo término es 35, ¿cuál es el primer término?", "capital": "a = 5" },
+  { "country": "Calcula el valor de: √(25) + ∛(64) + ∜(81)", "capital": "b = 9" },
+  { "country": "Resuelve la ecuación trigonométrica: 2cos(θ) - 1 = 0", "capital": "θ = π/3" },
+  { "country": "Encuentra el perímetro de un polígono regular con 8 lados, cada lado mide 12 cm.", "capital": "P = 96 cm" },
+  { "country": "Simplifica la expresión: (a² + 2ab + b²) / (a + b)", "capital": "c = a + b" },
+  { "country": "Resuelve la ecuación logarítmica: log₄(x) = 2", "capital": "x = 16" },
+  { "country": "Calcula el producto escalar de los vectores u = <3, -1, 2> y v = <2, 4, 5>.", "capital": "u·v = 21" }
+]
